@@ -11,7 +11,7 @@ public class Task1 {
         if (input.length() != 0) {
             count++;
             for (int i = 0; i < input.length(); i++) {
-                if (input.charAt(i) ==  ' ') {
+                if (input.charAt(i) == ' ') {
                     count++;
                 }
 
