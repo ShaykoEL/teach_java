@@ -45,8 +45,8 @@ public class Task4 {
 
         String[] words = object.getArrayWords(str);
 
-        char[] glassnye = {'а', 'у', 'о', 'ы', 'и', 'э', 'я', 'ю', 'ё', 'е'};
-        char[] soglasnye = {'б', 'в', 'г', 'д', 'ж', 'з', 'й', 'к', 'л', 'м', 'н', 'п', 'р', 'с', 'т', 'ф', 'х', 'ц', 'ч', 'ш', 'щ'};
+        char[] glassnye = {'а', 'у', 'о', 'ы', 'и', 'э', 'я', 'ю', 'ё', 'е',  'a', 'e', 'i', 'o', 'u', 'y'};
+        char[] soglasnye = {'б', 'в', 'г', 'д', 'ж', 'з', 'й', 'к', 'л', 'м', 'н', 'п', 'р', 'с', 'т', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'b', 'c', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'p',  'q', 'r', 's', 't', 'v', 'w', 'x', 'z'};
 
         String[] filterOnGlasnye = object.getAllWordsWhichStartFromGlasnye(words, glassnye);
         String[] filterOnSoglasnye = object.getAllWordsWhichTillSoglasnye(filterOnGlasnye, soglasnye);
