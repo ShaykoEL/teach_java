@@ -7,11 +7,10 @@ public class TaskGame {
         TaskControl ctrl = new TaskControl();
         game.createMap(map);
         game.addStone(map);
-        map.displayMap();
         map.addPlayer(9,0);
+        map.displayMap();
         while (map.x != 0 || map. y != 9) {
             ctrl.moveVersion(map);
-
         }
     }
     public char [][] createMap(TaskMap map) {

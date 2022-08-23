@@ -10,7 +10,7 @@ public class TaskMap {
     }
 
     public void goToTheUp() {
-        if (x + 1 > 9 || x - 1 < 0 || map[x - 1][y] == 'S') {
+        if (x - 1 < 0 || map[x - 1][y] == 'S') {
             System.out.println("You can't go here!");
         } else {
             addPlayer(x - 1, y);
@@ -20,7 +20,7 @@ public class TaskMap {
     }
 
     public void goToTheDown() {
-        if (x - 1 < 0 || x + 1 > 9 || map[x + 1][y] == 'S') {
+        if (x + 1 > 9 || map[x + 1][y] == 'S') {
             System.out.println("You can't go here!");
         } else {
             addPlayer(x + 1, y);
@@ -30,7 +30,7 @@ public class TaskMap {
     }
 
     public void goToTheLeft() {
-        if (y + 1 > 9 || y - 1 < 0 || map[x][y - 1] == 'S') {
+        if (y - 1 < 0 || map[x][y - 1] == 'S') {
             System.out.println("You can't go here!");
         } else {
             addPlayer(x, y - 1);
@@ -40,7 +40,7 @@ public class TaskMap {
     }
 
     public void goToTheRight() {
-        if (y + 1 > 9 || y - 1 < 0 || map[x][y + 1] == 'S') {
+        if (y + 1 > 9 || map[x][y + 1] == 'S') {
             System.out.println("You can't go here!");
         } else {
             addPlayer(x, y + 1);
