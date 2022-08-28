@@ -1,4 +1,4 @@
-package game;
+package by.step.teach_java.classwork.classwork_220822_game;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

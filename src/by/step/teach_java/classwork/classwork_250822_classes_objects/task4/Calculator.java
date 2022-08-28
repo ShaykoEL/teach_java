@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_250822.task4;
+package by.step.teach_java.classwork.classwork_250822_classes_objects.task4;
 
 public class Calculator {
     public double plus (double x, double y){
@@ -14,3 +14,4 @@ public class Calculator {
         return x*y;
     }
 }
+

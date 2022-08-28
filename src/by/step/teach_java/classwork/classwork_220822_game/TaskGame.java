@@ -1,4 +1,4 @@
-package game;
+package by.step.teach_java.classwork.classwork_220822_game;
 
 public class TaskGame {
     public static void main(String[] args) {

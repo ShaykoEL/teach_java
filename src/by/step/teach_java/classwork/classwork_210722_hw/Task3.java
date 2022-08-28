@@ -1,4 +1,4 @@
-package HW210722;
+package by.step.teach_java.classwork.classwork_210722_hw;
 
 import java.util.Scanner;
 
@@ -9,10 +9,10 @@ public class Task3 {
         Task3 arrayMethod = new Task3();
         Scanner sc = new Scanner(System.in);
         int length = sc.nextInt();
-        int[] array = arrayMethod.creatArray(length);
+        int[] array = arrayMethod.createArray(length);
     }
 
-    private int[] creatArray(int length) {
+    private int[] createArray(int length) {
         int[] array = new int[length];
         for (int i = 0; i < array.length; i++) {
            array[i] = ((int) (random() * 10 + 1));

@@ -1,4 +1,4 @@
-package Strings010822;
+package by.step.teach_java.classwork.classwork_210722_strings;
 
 import java.util.Scanner;
 

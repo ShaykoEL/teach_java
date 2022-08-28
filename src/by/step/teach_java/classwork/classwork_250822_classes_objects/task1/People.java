@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_250822.task1;
+package by.step.teach_java.classwork.classwork_250822_classes_objects.task1;
 
 import java.util.Scanner;
 

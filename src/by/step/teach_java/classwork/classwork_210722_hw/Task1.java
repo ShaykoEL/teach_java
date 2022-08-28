@@ -1,4 +1,4 @@
-package HW210722;
+package by.step.teach_java.classwork.classwork_210722_hw;
 
 import java.util.Scanner;
 
