@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_220922.Task2;
+package by.step.teach_java.classwork.classwork_220922_city_country.Task2;
 
 import java.util.Objects;
 
@@ -32,6 +32,7 @@ public class City {
 
     @Override
     public String toString() {
+
         return "City: " + name + "country = "+ country +", countOfPeople= " + countOfPeople;
     }
 }

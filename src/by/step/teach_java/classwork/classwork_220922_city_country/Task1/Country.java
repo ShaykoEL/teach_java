@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_220922.Task1;
+package by.step.teach_java.classwork.classwork_220922_city_country.Task1;
 
 import java.util.Objects;
 
@@ -29,6 +29,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return "Country " + name + ", continent= " + continent;
+        return "Country: " + name + ", continent= " + continent;
     }
 }
