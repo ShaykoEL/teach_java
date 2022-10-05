@@ -9,13 +9,14 @@ public enum DaysOfTheWeek {
     SIXTH_DAY ("Saturday"),
     SEVENS_DAY ("Sunday");
 
-    private final String NAME;
+    private String name;
 
     DaysOfTheWeek (String name) {
-        this.NAME = name;
-    }
-    String getNAME (){
-        return NAME;
+
+        this.name = name;
     }
 
+    public String getName() {
+        return name;
+    }
 }

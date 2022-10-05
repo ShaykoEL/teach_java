@@ -2,8 +2,6 @@ package by.step.teach_java.classwork.classwork_290822_classes_constructor.task3;
 
 import by.step.teach_java.classwork.classwork_290822_classes_constructor.task2.City;
 
-import java.util.Scanner;
-
 public class Country {
 
     private String theNameOfTheCountry;

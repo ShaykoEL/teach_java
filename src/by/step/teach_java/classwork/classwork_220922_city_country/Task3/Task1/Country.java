@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_220922_city_country.Task1;
+package by.step.teach_java.classwork.classwork_220922_city_country.Task3.Task1;
 
 import java.util.Objects;
 

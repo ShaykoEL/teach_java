@@ -7,10 +7,58 @@ public class CheckingDay implements DisplayNameWeek {
     @Override
     public void DisplayNameWeek(DaysOfTheWeek day) {
         switch (day) {
-            case FIFTH_DAY:
-                if (day.getName().eguals ("Monday")){
-                    System.out.println(day.getName);
+            case FIRST_DAY:
+                if (day.getName().equals ("Monday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
                 }
+                break;
+            case SECOND_DAY:
+                if (day.getName().equals ("Tuesday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            case THIRD_DAY:
+                if (day.getName().equals ("Wednesday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            case FOURTH_DAY:
+                if (day.getName().equals ("Thursday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            case FIFTH_DAY:
+                if (day.getName().equals ("Friday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            case SIXTH_DAY:
+                if (day.getName().equals ("Saturday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            case SEVENS_DAY:
+                if (day.getName().equals ("Sunday")){
+                    System.out.println(day.getName () + " - Text correct");
+                } else {
+                    System.out.println(day.getName () + " - Text no correct");
+                }
+                break;
+            default:
+                System.out.println("No day");
+
         }
 
     }

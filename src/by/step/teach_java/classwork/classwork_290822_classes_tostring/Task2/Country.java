@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_290822_classes_tostring.task1;
+package by.step.teach_java.classwork.classwork_290822_classes_tostring.Task2;
 
 public class Country {
     private String nameOfCountry;
