@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/teach_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task2/Oplata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task2/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task3/Sdelnaya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task5/PieceWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task4/Hours.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task4/HourlyWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task5/Stavka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_260922/Task3/Stavka.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FofC1NIpW6hwKepBQx6j00TN52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="" />
+      <created>1665163229154</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665163229154</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
