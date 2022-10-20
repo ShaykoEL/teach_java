@@ -2,8 +2,8 @@ package by.step.teach_java.classwork.classwork_061022;
 
 public interface HasLoginBlock {
 
-    LoginBlock getLoginBlock();
+  //  LoginBlock getLoginBlock();
 
-    default void verifySaveBatton();
+  //  default void verifySaveBatton();
 
 }
