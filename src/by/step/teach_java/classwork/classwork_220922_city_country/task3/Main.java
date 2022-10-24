@@ -1,7 +1,7 @@
-package by.step.teach_java.classwork.classwork_220922_city_country.Task3;
+package by.step.teach_java.classwork.classwork_220922_city_country.task3;
 
-import by.step.teach_java.classwork.classwork_220922_city_country.Task3.Task1.Country;
-import by.step.teach_java.classwork.classwork_220922_city_country.Task2.City;
+import by.step.teach_java.classwork.classwork_220922_city_country.task3.Task1.Country;
+import by.step.teach_java.classwork.classwork_220922_city_country.task2.City;
 
 public class Main {
     public static void main (String[] arg) {

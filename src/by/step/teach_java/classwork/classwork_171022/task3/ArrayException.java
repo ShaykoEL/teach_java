@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_171022.Task3;
+package by.step.teach_java.classwork.classwork_171022.task3;
 
 import java.util.Arrays;
 

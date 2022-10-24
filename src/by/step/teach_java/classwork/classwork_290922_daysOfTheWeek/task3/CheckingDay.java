@@ -1,7 +1,7 @@
-package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task3;
+package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task3;
 
-import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task1.DaysOfTheWeek;
-import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task2.DisplayNameWeek;
+import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task1.DaysOfTheWeek;
+import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task2.DisplayNameWeek;
 
 public class CheckingDay implements DisplayNameWeek {
     @Override

@@ -1,15 +1,15 @@
-package by.step.teach_java.classwork.classwork_171022.Task1;
+package by.step.teach_java.classwork.classwork_171022.task2;
 
 import java.util.Scanner;
 
-public class Exception1 {
+public class Exception2 {
     Integer number = 0;
 
     public static void main(String[] args) {
-        Exception1 exception1 = new Exception1();
-        exception1.getCorrectNumberFromConsole();
-        exception1.verifyRange();
-        System.out.println(exception1.number + " number in range");
+        Exception2 exception2 = new Exception2();
+        exception2.getCorrectNumberFromConsole();
+        exception2.verifyRange();
+        System.out.println(exception2.number + " number in range");
     }
 
     public void getCorrectNumberFromConsole() {
@@ -18,7 +18,7 @@ public class Exception1 {
         try {
             System.out.println("Please input a number");
             s = scanner.nextLine();
-            number = Integer.parseInt(s);
+            number = Integer.parseInt(s, 2);
         } catch (NumberFormatException e) {
             System.out.println(s + " is not a number");
             getCorrectNumberFromConsole();
@@ -36,10 +36,8 @@ public class Exception1 {
     }
 
     public void verifyInputedNumber() throws IllegalArgumentException {
-        if (number < 0 || number > 9) {
-            throw new IllegalArgumentException("Not in range from  0 to 9");
+        if (number < -5 || number > 5) {
+            throw new IllegalArgumentException("Not in range from -5 to 5");
         }
     }
-
-
 }

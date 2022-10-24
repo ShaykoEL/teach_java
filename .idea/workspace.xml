@@ -1,43 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task2/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task3/ArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task4/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_241022/task1/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_241022/task1/MyExceptionChecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_241022/task2/MyExceptionUnchecked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Exception1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/MainPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/PresentPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/SchedulePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/BaseBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/TopMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/left_menu/FooterLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/left_menu/HeaderLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/left_menu/LeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/left_menu/NavigationLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/block/login/LoginFormBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/BaseElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/Button.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/Input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/Link.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/LoginButtonElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/LoginFieldElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/PasswordFieldElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/RecoverPasswordElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/language_element/LanguageElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/element/login/language_element/TitleLanguageElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/HasTopMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/left_menu/HasFooterLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/left_menu/HasHeaderLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/left_menu/HasNavigationLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/left_menu/example_with_abstract/HasLeftMenuBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/login/HasLanguageBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/com/step/aqa/framework/first/page/page_interface/login/HasLoginFormBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task1/Exception1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/DashboardPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/DashboardPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HasLoginBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HasLoginBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HasPopUpBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HasPopUpBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/PasswordPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/PasswordPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/PopUpBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/PopUpBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/block/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/block/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/block/PopUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/block/PopUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/CancelButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/CancelButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/CloseButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/CloseButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/PasswordField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/PasswordField.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/SaveButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_061022/elements/SaveButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task1/Exception1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task1/Exception1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task2/Exception2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task2/Exception2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task3/ArrayException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task3/ArrayException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_171022/Task4/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_hw/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task4_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_210722_strings/Task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220822_game/TaskMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task1/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task1/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task2/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task2/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Task1/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Task1/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task1/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task1/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task2/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task2/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task3/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task3/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task4/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_250822_classes_objects/task4/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task1/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task1/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task2/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task2/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task3/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task3/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task4/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task4/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task5/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task5/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task6/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_constructor/task6/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_tostring/Task1/City.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_tostring/Task1/City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_tostring/Task2/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290822_classes_tostring/Task2/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task1/DaysOfTheWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task1/DaysOfTheWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task2/DisplayNameWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task2/DisplayNameWeek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task3/CheckingDay$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task3/CheckingDay$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task3/CheckingDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task3/CheckingDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task1/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task1/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task10/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task10/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task11/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task11/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task12/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task12/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task2/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task2/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task3/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task3/Task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task4/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task4/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task5/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task5/Task5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task6/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task6/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task7/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task7/Task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task8/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task8/Task8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task9/Task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework/Task9/Task9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task1/Storage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task1/Storage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task3/SpeedCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task3/SpeedCalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task4/ArithmeticMean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr2/Task4/ArithmeticMean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task1/SpecialFloat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task1/SpecialFloat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task2/Bin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task2/Bin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task2/BinaryString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task2/BinaryString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task3/StringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task3/StringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task4/PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr3/Task4/PrimeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr4/Task1/SoftArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr4/Task1/SoftArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr4/Task4/Butterfly.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr4/Task4/Butterfly.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task1/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task1/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task1/Filled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task1/Filled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task2/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task2/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task2/Filled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task2/Filled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task3/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task3/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task3/Filled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task3/Filled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Filled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Filled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Task4/Task4_empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Task4/Task4_empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Task4/Task4_filled.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task5/Task4/Task4_filled.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task6/Task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task6/Task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task7/Task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task7/Task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task8/Task8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task8/Task8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task9/Task9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/nestedLoops/Task9/Task9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task1/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/task1/Exception1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task2/Exception2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/task2/Exception2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task3/ArrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/task3/ArrayException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/Task4/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_171022/task4/Exception3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/Task1/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/task1/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/Task2/City.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/task2/City.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/Task3/Task1/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_220922_city_country/task3/Task1/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task1/DaysOfTheWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/task1/DaysOfTheWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task2/DisplayNameWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/task2/DisplayNameWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task3/CheckingDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/task3/CheckingDay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/Task4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_290922_daysOfTheWeek/task4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,25 +155,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/OneDrive/Рабочий стол/QA1822/teach_java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.Sum">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Exception3">
     <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.Task3.ArrayException" />
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task3.ArrayException" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.Task3.*" />
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +179,11 @@
       </method>
     </configuration>
     <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.Task1.Exception1" />
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task1.Exception1" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.Task1.*" />
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +192,11 @@
       </method>
     </configuration>
     <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.Task2.Exception2" />
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task2.Exception2" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.Task2.*" />
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,22 +204,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.Task4.Sum" />
+    <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task4.Exception3" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.Task4.*" />
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.Exception3" />
         <item itemvalue="Application.ArrayException" />
         <item itemvalue="Application.Exception2" />
         <item itemvalue="Application.Exception1" />
@@ -145,8 +245,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665163229154</updated>
+      <workItem from="1666629001507" duration="5732000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -158,5 +262,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1666629565715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="34" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1666629565715" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1666633761496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1666633761496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1666633761496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1666633761496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1666633761496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1666633761496" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1666633761496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1666633761496" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1666632599211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1666632599211" />
   </component>
 </project>

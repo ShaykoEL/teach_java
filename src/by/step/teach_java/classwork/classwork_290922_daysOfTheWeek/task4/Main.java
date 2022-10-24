@@ -1,7 +1,7 @@
-package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task4;
+package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task4;
 
-import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task1.DaysOfTheWeek;
-import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task3.CheckingDay;
+import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task1.DaysOfTheWeek;
+import by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task3.CheckingDay;
 
 public class Main {
     public static void main(String[] args) {

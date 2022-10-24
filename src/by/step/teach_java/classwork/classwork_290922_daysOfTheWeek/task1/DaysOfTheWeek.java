@@ -1,4 +1,4 @@
-package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.Task1;
+package by.step.teach_java.classwork.classwork_290922_daysOfTheWeek.task1;
 
 public enum DaysOfTheWeek {
     FIRST_DAY ("Monday"),
