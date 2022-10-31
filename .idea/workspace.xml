@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/Avtomobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/Avtopark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/CreatorAvtoparka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/ParkPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_311022_List_Set/Task1/ListMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/Garage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_271022/task1/Transport.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +48,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/User/OneDrive/Рабочий стол/QA1822/teach_java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
-  }
-}]]></component>
-  <component name="RunManager" selected="Application.CreatorAvtoparka">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.ListMain">
     <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task3.ArrayException" />
       <module name="teach_java" />
@@ -115,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task2.Exception2" />
-      <module name="teach_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task4.Exception3" />
       <module name="teach_java" />
@@ -141,13 +106,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_311022_List_Set.Task1.ListMain" />
+      <module name="teach_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_311022_List_Set.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.CreatorAvtoparka" />
         <item itemvalue="Application.Compare" />
         <item itemvalue="Application.Exception3" />
         <item itemvalue="Application.ArrayException" />
-        <item itemvalue="Application.Exception2" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665163229154</updated>
       <workItem from="1666629001507" duration="5732000" />
+      <workItem from="1667236622201" duration="2874000" />
     </task>
     <servers />
   </component>
@@ -176,5 +166,28 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1667239008101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667239008101" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1667239008101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667239008101" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1667239008100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667239008100" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1667239008101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667239008101" />
+    <state x="736" y="99" key="SettingsEditor" timestamp="1667239097631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667239097631" />
   </component>
 </project>
