@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/task1/Count.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_311022_List_Set/Task1/ListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_311022_List_Set/Task1/ListMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_311022_List_Set/Task1/ListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_311022_List_Set/Task1/ListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,15 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,7 +155,8 @@
       <updated>1665163229154</updated>
       <workItem from="1666629001507" duration="5732000" />
       <workItem from="1667236622201" duration="2993000" />
-      <workItem from="1667488942626" duration="5891000" />
+      <workItem from="1667488942626" duration="6551000" />
+      <workItem from="1668097364283" duration="2687000" />
     </task>
     <servers />
   </component>
@@ -176,22 +176,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="275" key="GridCell.Tab.0.bottom" timestamp="1667493337805">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1667498715053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667493337805" />
-    <state width="914" height="275" key="GridCell.Tab.0.center" timestamp="1667493337805">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715053" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1667498715052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667493337805" />
-    <state width="914" height="275" key="GridCell.Tab.0.left" timestamp="1667493337804">
+    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1667498715052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667493337804" />
-    <state width="914" height="275" key="GridCell.Tab.0.right" timestamp="1667493337805">
+    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1667498715052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667493337805" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
     <state x="736" y="99" key="SettingsEditor" timestamp="1667239097631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

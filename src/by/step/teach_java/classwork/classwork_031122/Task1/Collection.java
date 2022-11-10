@@ -37,10 +37,10 @@ public class Collection {
         int menuPoint = getMenuPoint();
         switch (menuPoint) {
             case 3: {
-               showTask1
+          //     showTask1
                 break;
             }case 6: {
-                endFlag = false;
+          //      endFlag = false;
             }
         }
 
