@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/task1/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +49,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager" selected="Application.ListMain">
-    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task3.ArrayException" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/User/OneDrive/Рабочий стол/QA1822/teach_java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Collection">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_031122.Task1.Collection" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task3.*" />
+          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_031122.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,24 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collection" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.CreatorAvtoparka" />
         <item itemvalue="Application.Compare" />
         <item itemvalue="Application.Exception3" />
-        <item itemvalue="Application.ArrayException" />
       </list>
     </recent_temporary>
   </component>
@@ -173,28 +172,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1667498715053">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715053" />
-    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1667498715052">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
-    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1667498715052">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
-    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1667498715052">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1667498715052" />
-    <state x="736" y="99" key="SettingsEditor" timestamp="1667239097631">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="736" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1667239097631" />
   </component>
 </project>

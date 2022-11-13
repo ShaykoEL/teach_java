@@ -4,7 +4,8 @@ import java.util.*;
 
 public class Collection {
     private List<Integer> list = new ArrayList<>();
-    private Map <Integer, String> menu = new HashMap();
+    private Map <Integer, String> menu = new HashMap<>();
+    private boolean endFlag = true;
 
     public static void main(String[] args) {
         Collection task1 =new Collection();
@@ -14,12 +15,12 @@ public class Collection {
         task1.list.add(task1.getNumberFromConsole());
 
         task1.generationMenu();
-        task1.showMenu();
-        task1.controllerFromProgram();
+       // task1.showMenu();
+       // task1.controllerOfProgram();
 
         do {
-            task1.controllerFromProgram();
-        }while
+            task1.controllerOfProgram();
+        } while (task1.endFlag);
     }
     public void showMenu(){
         for (int i = 1; i < menu.size(); i++) {
@@ -32,19 +33,44 @@ public class Collection {
 
 
         }
-        public void controllerFromProgram (){
+        public void controllerOfProgram (){
         showMenu();
         int menuPoint = getMenuPoint();
         switch (menuPoint) {
-            case 3: {
-          //     showTask1
+            case 1: {
+                int newNumber = getNumberFromConsole();
+                list.add(newNumber);
                 break;
-            }case 6: {
-          //      endFlag = false;
+            }
+            case 2: {
+                int removedNumber = getNumberFromConsole();
+                deleteNumberFromList(removedNumber);
+                showListEntries();
+                break;
+            }
+            case 3: {
+                showListEntries();
+                break;
+            }
+            case 4: {
+
+            }
+
+            case 6: {
+                endFlag = false;
             }
         }
 
 
+        }
+        public void deleteNumberFromList(int number){
+        list.remove(Integer.valueOf(number));
+        }
+        public void showListEntries(){
+        for (Integer number: list) {
+            System.out.println(number +", ");
+        }
+            System.out.println();
         }
         public int getMenuPoint(){
             System.out.println("Input number menu: ");
@@ -52,15 +78,15 @@ public class Collection {
         }
 
     public int getNumberFromConsole (){
-        System.out.println("Input number: ");
+        System.out.println("Input a number: ");
         return new Scanner(System.in).nextInt();
     }
     public void generationMenu(){
-        menu.put(1,"Add element in list");
-        menu.put(2,"Delete element in list");
-        menu.put(3,"Show element in list");
-        menu.put(4,"Check element in list");
-        menu.put(5,"Replace element in list");
+        menu.put(1,"Add element in the list");
+        menu.put(2,"Delete element from the list");
+        menu.put(3,"Show elements in the list");
+        menu.put(4,"Check value in the list");
+        menu.put(5,"Replace value in  the list");
         menu.put(6,"Exit");
 
 
