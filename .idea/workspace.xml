@@ -20,10 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_2/DefaultInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_3/DataOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_3/DataOnlyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_4/Pr1_4_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_4/Spaceship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1_2/Storage1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_031122/Task1/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/classwork/classwork_101122/synchronization/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_031122/Task1/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_031122/Task1/Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task1/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task3/SpeedCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task3/SpeedCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task4/ArithmeticMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task4/ArithmeticMean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,15 +66,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Users/User/OneDrive/Рабочий стол/QA1822/teach_java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Рабочий стол/QA1822/teach_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Collection">
+}</component>
+  <component name="RunManager" selected="Application.Storage1">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -69,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_031122.Task1.Collection" />
+    <configuration name="DataOnlyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_3.DataOnlyMain" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_031122.Task1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_pr7.task1.Compare" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_1.HelloWorld" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_pr7.task1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreatorAvtoparka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_271022.task1.CreatorAvtoparka" />
+    <configuration name="Pr1_4_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_4.Pr1_4_main" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_271022.task1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_171022.task4.Exception3" />
+    <configuration name="Storage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1.Storage" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_171022.task4.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.classwork.classwork_311022_List_Set.Task1.ListMain" />
+    <configuration name="Storage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1_2.Storage1" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.classwork.classwork_311022_List_Set.Task1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Collection" />
-        <item itemvalue="Application.ListMain" />
-        <item itemvalue="Application.CreatorAvtoparka" />
-        <item itemvalue="Application.Compare" />
-        <item itemvalue="Application.Exception3" />
+        <item itemvalue="Application.Storage1" />
+        <item itemvalue="Application.Storage" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Pr1_4_main" />
+        <item itemvalue="Application.DataOnlyMain" />
       </list>
     </recent_temporary>
   </component>
