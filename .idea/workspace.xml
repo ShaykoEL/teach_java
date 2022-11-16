@@ -20,27 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_2/DefaultInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_3/DataOnly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_3/DataOnlyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_4/Pr1_4_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_4/Spaceship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1_2/Storage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_2/CoinFlipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_3_2/SpeedCalculation2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_031122/Task1/Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/classwork/classwork_031122/Task1/Collection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_1/pr1_1/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task2/DefaultInitialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task3/DataOnly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task3/DataOnlyMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr1/Task4/Spaceship.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task1/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task3/SpeedCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task3/SpeedCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr2/Task4/ArithmeticMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task4/ArithmeticMean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_2/Task3/SpeedCalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/teach_java/by/step/teach_java/homework/homework_2/pr2_1_2/Storage1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task3/SpeedCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_3/SpeedCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task4/ArithmeticMean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/Task4/ArithmeticMean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1_2/Storage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_2/pr2_1_2/Storage2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +61,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Storage1">
+  <component name="RunManager" selected="Application.ArithmeticMean">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -86,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataOnlyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_3.DataOnlyMain" />
+    <configuration name="ArithmeticMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.Task4.ArithmeticMean" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_3.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_1.HelloWorld" />
+    <configuration name="CoinFlipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_2.CoinFlipping" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr1_4_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_1.pr1_4.Pr1_4_main" />
+    <configuration name="SpeedCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_3.SpeedCalculation" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_1.pr1_4.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Storage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1.Storage" />
+    <configuration name="SpeedCalculation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_3_2.SpeedCalculation2" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_1.*" />
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_3_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Storage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1_2.Storage1" />
+    <configuration name="Storage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1_2.Storage2" />
       <module name="teach_java" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Storage1" />
-        <item itemvalue="Application.Storage" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Pr1_4_main" />
-        <item itemvalue="Application.DataOnlyMain" />
+        <item itemvalue="Application.ArithmeticMean" />
+        <item itemvalue="Application.CoinFlipping" />
+        <item itemvalue="Application.SpeedCalculation2" />
+        <item itemvalue="Application.SpeedCalculation" />
+        <item itemvalue="Application.Storage2" />
       </list>
     </recent_temporary>
   </component>

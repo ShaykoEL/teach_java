@@ -1,4 +1,4 @@
-package by.step.teach_java.homework.homework_2.Task3;
+package by.step.teach_java.homework.homework_2.pr2_3;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
