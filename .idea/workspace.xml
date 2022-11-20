@@ -22,7 +22,6 @@
     <list default="true" id="a5069ac4-e656-46d7-b2d3-7e5b4c5ff310" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr3/Task3/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/step/teach_java/homework/homework_pr3/Task3/StringBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,24 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager" selected="Application.Butterfly">
-    <configuration name="ArithmeticMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.Task4.ArithmeticMean" />
-      <module name="teach_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.Task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/User/OneDrive/Рабочий стол/QA1822/com-itstep-aqa-java-project",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Storage2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,19 +73,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="by.step.teach_java.homework.homework_pr4.Task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CoinFlipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_2.CoinFlipping" />
-      <module name="teach_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,24 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="Storage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1.Storage" />
+      <module name="teach_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Storage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.step.teach_java.homework.homework_2.pr2_1_2.Storage2" />
+      <module name="teach_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.step.teach_java.homework.homework_2.pr2_1_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Storage2" />
+        <item itemvalue="Application.Storage" />
         <item itemvalue="Application.Butterfly" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.SpecialFloat" />
-        <item itemvalue="Application.ArithmeticMean" />
-        <item itemvalue="Application.CoinFlipping" />
       </list>
     </recent_temporary>
   </component>
@@ -173,28 +172,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1089" height="337" key="GridCell.Tab.0.bottom" timestamp="1668703267948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1089" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1668703267948" />
-    <state width="1089" height="337" key="GridCell.Tab.0.center" timestamp="1668703267947">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1089" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1668703267947" />
-    <state width="1089" height="337" key="GridCell.Tab.0.left" timestamp="1668703267947">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1089" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1668703267947" />
-    <state width="1089" height="337" key="GridCell.Tab.0.right" timestamp="1668703267948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1089" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1668703267948" />
-    <state x="795" y="89" key="SettingsEditor" timestamp="1668702354740">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="795" y="89" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1668702354740" />
   </component>
 </project>
